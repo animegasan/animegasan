@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![animegasan’s github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=animegasan&hide=issues&include_all_commits=true&hide_title=true&theme=gotham)
+
 <!--
 **animegasan/animegasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
