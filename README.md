@@ -2,16 +2,8 @@
 <img align="left" alt="GitHub User's stars" src="https://img.shields.io/github/stars/animegasan?style=for-the-badge&logo=github&labelColor=blue&color=black">
 <br/>
 <br/>
-<!-- Intro  -->
-<p align="center">
-  <samp>
-    &gt; Hey There!, I'm Hilman Maulana a.k.a. animegasan
-    <br/>
-    <br/>
-    「 Developer in Open Source projects like OpenWrt, ImmortalWrt, and Docker applications 」
-    </samp>
-</p>
-
+<h1 align="center"> &gt; Hey There!, I'm Hilman Maulana a.k.a. animegasan </h1>
+<p align="center">「 Developer in Open Source projects like OpenWrt, ImmortalWrt, and Docker applications 」</p>
 <hr/>
 
 ## My LuCI Project
