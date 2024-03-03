@@ -1,18 +1,40 @@
-### Hi there 👋
+<img align="right" alt="GitHub followers" src="https://img.shields.io/github/followers/animegasan?style=for-the-badge&logo=github&labelColor=blue&color=black">
+<img align="left" alt="GitHub User's stars" src="https://img.shields.io/github/stars/animegasan?style=for-the-badge&logo=github&labelColor=blue&color=black">
+<br/>
+<br/>
+<!-- Intro  -->
+<p align="center">
+  <samp>
+    &gt; Hey There!, I'm Hilman Maulana a.k.a. animegasan
+    <br/>
+    <br/>
+    「 Developer in Open Source projects like OpenWrt, ImmortalWrt, and Docker applications 」
+    </samp>
+</p>
 
-![animegasan’s github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=animegasan&hide=issues&include_all_commits=true&hide_title=true&theme=gotham)
+<hr/>
 
-<!--
-**animegasan/animegasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My LuCI Project
+[![luci-app-speedtest](https://github-readme-stats.vercel.app/api/pin/?username=animegasan&repo=luci-app-speedtest&border_color=007ec6&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ec6)](https://github.com/animegasan/luci-app-speedtest)
+[![luci-app-alpha-config](https://github-readme-stats.vercel.app/api/pin/?username=animegasan&repo=luci-app-alpha-config&border_color=007ec6&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ec6)](https://github.com/animegasan/luci-app-alpha-config)
+[![luci-app-cloudflared](https://github-readme-stats.vercel.app/api/pin/?username=animegasan&repo=luci-app-cloudflared&border_color=007ec6&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ec6)](https://github.com/animegasan/luci-app-cloudflared)
+[![luci-app-gpioled](https://github-readme-stats.vercel.app/api/pin/?username=animegasan&repo=luci-app-gpioled&border_color=007ec6&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ec6)](https://github.com/animegasan/luci-app-gpioled)
+[![luci-app-appstatus](https://github-readme-stats.vercel.app/api/pin/?username=animegasan&repo=luci-app-appstatus&border_color=007ec6&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ec6)](https://github.com/animegasan/luci-app-appstatus)
 
-Here are some ideas to get you started:
+## My Docker Project
+[![mikbotam](https://github-readme-stats.vercel.app/api/pin/?username=animegasan&repo=mikbotam&border_color=007ec6&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ec6)](https://github.com/animegasan/mikbotam)
+[![phpnuxbill](https://github-readme-stats.vercel.app/api/pin/?username=animegasan&repo=phpnuxbill&border_color=007ec6&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ec6)](https://github.com/animegasan/phpnuxbill)
+[![mikpos](https://github-readme-stats.vercel.app/api/pin/?username=animegasan&repo=mikpos&border_color=007ec6&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ec6)](https://github.com/animegasan/mikpos)
+[![extraordinary-cbt](https://github-readme-stats.vercel.app/api/pin/?username=animegasan&repo=extraordinary-cbt&border_color=007ec6&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ec6)](https://github.com/animegasan/extraordinary-cbt)
+[![mikhmon](https://github-readme-stats.vercel.app/api/pin/?username=animegasan&repo=mikhmon&border_color=007ec6&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=007ec6)](https://github.com/animegasan/mikhmon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<hr/>
+
+<a href="https://github.com/animegasan">
+  <img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=animegasan&show_icons=true&count_private=true&theme=react&border_color=007ec6&bg_color=0D1117&title_color=007ec6&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/animegasan">
+  <img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=animegasan&langs_count=8&layout=compact&theme=react&border_color=007ec6&bg_color=0D1117&title_color=007ec6&icon_color=F8D866" height="192px" width="49.5%"/>
+</a>
+
+<hr/>
