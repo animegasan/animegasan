@@ -18,6 +18,7 @@
 </div>
 
 ## My LuCI Project
+[![luci-app-droidnet](https://github-readme-stats.vercel.app/api/pin/?username=animegasan&repo=luci-app-droidnet&border_color=e74c3c&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e74c3c)](https://github.com/animegasan/luci-app-droidnet)
 [![luci-app-dnsleaktest](https://github-readme-stats.vercel.app/api/pin/?username=animegasan&repo=luci-app-dnsleaktest&border_color=e74c3c&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e74c3c)](https://github.com/animegasan/luci-app-dnsleaktest)
 [![luci-app-speedtest](https://github-readme-stats.vercel.app/api/pin/?username=animegasan&repo=luci-app-speedtest&border_color=e74c3c&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e74c3c)](https://github.com/animegasan/luci-app-speedtest)
 [![luci-app-alpha-config](https://github-readme-stats.vercel.app/api/pin/?username=animegasan&repo=luci-app-alpha-config&border_color=e74c3c&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=e74c3c)](https://github.com/animegasan/luci-app-alpha-config)
