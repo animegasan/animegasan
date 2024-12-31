@@ -13,9 +13,34 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div>
+
+## 📱 | Android Projects
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📁 Name</b></td>
+      <td><b>✍️ Description</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>⬇️ Downloads</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>❌ Issues</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/animegasan/DroidModem"><b>DroidModem</b></a></td>
+      <td>Efficient management of your Android modem.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/animegasan/DroidModem?style=flat-square&label=Stars&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/animegasan/DroidModem/total?style=flat-square&label=Downloads&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/animegasan/DroidModem?style=flat-square&label=Forks&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/animegasan/DroidModem?style=flat-square&label=Issues&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ## 📦 | LuCI Projects
 <table>
@@ -31,12 +56,12 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/animegasan/luci-app-droidnet"><b>luci-app-droidnet</b></a></td>
+      <td><a href="https://github.com/animegasan/luci-app-droidmodem"><b>luci-app-droidmodem</b></a></td>
       <td>Manage Android modem and optimize network settings.</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/animegasan/luci-app-droidnet?style=flat-square&label=Stars&labelColor=343b41"/></td>
-      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/animegasan/luci-app-droidnet/total?style=flat-square&label=Downloads&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/animegasan/luci-app-droidnet?style=flat-square&label=Forks&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/animegasan/luci-app-droidnet?style=flat-square&label=Issues&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/animegasan/luci-app-droidmodem?style=flat-square&label=Stars&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/animegasan/luci-app-droidmodem/total?style=flat-square&label=Downloads&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/animegasan/luci-app-droidmodem?style=flat-square&label=Forks&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/animegasan/luci-app-droidmodem?style=flat-square&label=Issues&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/animegasan/luci-app-dnsleaktest"><b>luci-app-dnsleaktest</b></a></td>
