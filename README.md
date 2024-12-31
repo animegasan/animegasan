@@ -1,5 +1,5 @@
 <h1 align="center"> &gt; Hey There!, I'm Hilman Maulana</h1>
-<p align="center">「 Developer in Open Source projects like OpenWrt, ImmortalWrt, and Docker applications 」</p>
+<p align="center">「 Developer in Open Source projects like OpenWrt, ImmortalWrt, Android and Docker applications 」</p>
 <hr/>
 <div align="center">
   <a target="_blank" href="https://saweria.co/animegasan" alt="Saweria"><img src="https://img.shields.io/badge/saweria-donation?style=for-the-badge&logo=adobeindesign&labelColor=black&color=%23FFA401"></a>
