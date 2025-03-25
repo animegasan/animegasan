@@ -39,6 +39,14 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/animegasan/DroidModem?style=flat-square&label=Forks&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/animegasan/DroidModem?style=flat-square&label=Issues&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/animegasan/ResponSPKLU"><b>ResponSPKLU</b></a></td>
+      <td>Fast solution for SPKLU issues.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/animegasan/ResponSPKLU?style=flat-square&label=Stars&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://img.shields.io/github/downloads/animegasan/ResponSPKLU/total?style=flat-square&label=Downloads&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/animegasan/ResponSPKLU?style=flat-square&label=Forks&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/animegasan/ResponSPKLU?style=flat-square&label=Issues&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
